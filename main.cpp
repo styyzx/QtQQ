@@ -8,6 +8,6 @@ int main(int argc, char *argv[])
     Drawer drawer;
     drawer.resize(250,700);
     drawer.show();
-
+# this line is add in simple2
     return a.exec();
 }
